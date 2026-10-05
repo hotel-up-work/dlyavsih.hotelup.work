@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dlyavsih.webart.work/sitemap.xml
+Sitemap: https://dlyavsih.hotelup.work/sitemap.xml
